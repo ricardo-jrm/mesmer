@@ -49,7 +49,7 @@
     "@mui/material": "^5.2.8",
     "@ricardo-jrm/echo": "^2.0.1",
     "@ricardo-jrm/fury": "^4.0.0",
-    "@ricardo-jrm/pain": "^2.1.0",
+    "@ricardo-jrm/pain": "^2.1.1",
     "@types/canvas-confetti": "^1.4.2",
     "@types/jest": "^27.0.2",
     "@types/node": "^16.11.4",
