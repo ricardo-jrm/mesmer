@@ -1,4 +1,4 @@
-export { FOOTER_HEIGHT, HEADER_HEIGHT } from './layout';
+export { FOOTER_HEIGHT, FOOTER_OFFSET, HEADER_HEIGHT } from './layout';
 
 export { locales } from './locales';
 
