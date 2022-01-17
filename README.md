@@ -37,9 +37,6 @@ yarn add @ricardo-jrm/mesmer
 // install deps
 yarn install
 
-// run dev
-yarn dev
-
 // run build
 yarn build
 
