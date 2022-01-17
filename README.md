@@ -2,7 +2,7 @@
 
 # 🎭 `@ricardo-jrm/mesmer`
 
-<b>Typescript NPM Package Boilerplate</b>
+<b>Misc Collection</b>
 
 ![build](https://img.shields.io/github/workflow/status/ricardo-jrm/mesmer/Continuous%20Integration?style=for-the-badge)
 ![license](https://img.shields.io/github/license/ricardo-jrm/mesmer?style=for-the-badge)
@@ -27,16 +27,6 @@
 npm install @ricardo-jrm/mesmer
 
 yarn add @ricardo-jrm/mesmer
-```
-
-<br />
-
-### <b>Usage</b>
-
-```tsx
-import { example, exampleType } from '@ricardo-jrm/mesmer';
-
-example();
 ```
 
 <br />
