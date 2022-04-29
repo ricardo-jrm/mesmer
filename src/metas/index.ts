@@ -1,4 +1,4 @@
-import { PainRecord } from '@ricardo-jrm/pain';
+import { PainRecord } from '@ricardojrmcom/pain';
 import { ace } from './ace';
 import { fury } from './fury';
 import { nebula } from './nebula';

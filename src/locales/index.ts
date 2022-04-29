@@ -1,4 +1,4 @@
-import { EchoRecord } from '@ricardo-jrm/echo';
+import { EchoRecord } from '@ricardojrmcom/echo';
 import { en } from './en';
 import { pt } from './pt';
 

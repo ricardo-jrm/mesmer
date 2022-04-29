@@ -1,17 +1,17 @@
 <div align="center">
 
-# 🎭 `@ricardo-jrm/mesmer`
+# 🎭 `@ricardojrmcom/mesmer`
 
 <b>Misc Collection</b>
 
-![build](https://img.shields.io/github/workflow/status/ricardo-jrm/mesmer/Continuous%20Integration?style=for-the-badge)
-![license](https://img.shields.io/github/license/ricardo-jrm/mesmer?style=for-the-badge)
+![build](https://img.shields.io/github/workflow/status/ricardojrmcom/mesmer/Continuous%20Integration?style=for-the-badge)
+![license](https://img.shields.io/github/license/ricardojrmcom/mesmer?style=for-the-badge)
 
-![author](<https://img.shields.io/badge/Author-Ricardo%20%3Cl1b3r__--%3E%20Mota%20(%40ricardo--jrm)-orange?style=for-the-badge>)
+![author](<https://img.shields.io/badge/Author-Ricardo%20%3Cl1b3r__--%3E%20Mota%20(%40ricardojrmcom)-orange?style=for-the-badge>)
 
-![lang](https://img.shields.io/github/languages/top/ricardo-jrm/mesmer?style=for-the-badge)
-![version](https://img.shields.io/npm/v/@ricardo-jrm/mesmer?style=for-the-badge)
-![size](https://img.shields.io/bundlephobia/min/@ricardo-jrm/mesmer?style=for-the-badge)
+![lang](https://img.shields.io/github/languages/top/ricardojrmcom/mesmer?style=for-the-badge)
+![version](https://img.shields.io/npm/v/@ricardojrmcom/mesmer?style=for-the-badge)
+![size](https://img.shields.io/bundlephobia/min/@ricardojrmcom/mesmer?style=for-the-badge)
 
 </div>
 
@@ -24,9 +24,9 @@
 ### <b>Install</b>
 
 ```tsx
-npm install @ricardo-jrm/mesmer
+npm install @ricardojrmcom/mesmer
 
-yarn add @ricardo-jrm/mesmer
+yarn add @ricardojrmcom/mesmer
 ```
 
 <br />
@@ -52,14 +52,14 @@ yarn test
 ### <b>Project</b>
 
 - [Project Page](https://l1b3r.notion.site/mesmer-85440962eefc4a59842950e4a3e916e2)
-- [Source Code](https://github.com/ricardo-jrm/mesmer)
-- [Releases Page](https://github.com/ricardo-jrm/mesmer/releases)
+- [Source Code](https://github.com/ricardojrmcom/mesmer)
+- [Releases Page](https://github.com/ricardojrmcom/mesmer/releases)
 
 <br />
 
 ### <b>Project Dependencies</b>
 
-- <b>TS Package Boilerplate: [🟪 @ricardo-jrm/nova](https://github.com/ricardo-jrm/nova)</b>
+- <b>TS Package Boilerplate: [🟪 @ricardojrmcom/nova](https://github.com/ricardojrmcom/nova)</b>
 
 <br />
 
@@ -84,8 +84,8 @@ yarn test
 
 ### <b>License</b>
 
-[MIT](https://github.com/ricardo-jrm/mesmer/blob/main/LICENSE) © Ricardo <l1b3r\_-> Mota ([@ricardo-jrm](https://github.com/ricardo-jrm))
+[MIT](https://github.com/ricardojrmcom/mesmer/blob/main/LICENSE) © Ricardo <l1b3r\_-> Mota ([@ricardojrmcom](https://github.com/ricardojrmcom))
 
-Bootstrapped with 🟪[@ricardo-jrm/nova](https://github.com/ricardo-jrm/nova)
+Bootstrapped with 🟪[@ricardojrmcom/nova](https://github.com/ricardojrmcom/nova)
 
 <br />

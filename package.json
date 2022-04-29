@@ -1,21 +1,21 @@
 {
-  "name": "@ricardo-jrm/mesmer",
+  "name": "@ricardojrmcom/mesmer",
   "description": "Misc collection",
-  "version": "0.0.0-development",
+  "version": "0.0.1-development",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/ricardo-jrm/mesmer.git"
+    "url": "https://github.com/ricardojrmcom/mesmer.git"
   },
   "author": {
     "name": "Ricardo Mota",
-    "url": "https://github.com/ricardo-jrm"
+    "url": "https://github.com/ricardojrmcom"
   },
-  "homepage": "https://github.com/ricardo-jrm/mesmer#readme",
+  "homepage": "https://github.com/ricardojrmcom/mesmer#readme",
   "bugs": {
-    "url": "https://github.com/ricardo-jrm/mesmer/issues"
+    "url": "https://github.com/ricardojrmcom/mesmer/issues"
   },
   "license": "MIT",
   "keywords": [
@@ -47,9 +47,9 @@
     "@commitlint/cli": "^15.0.0",
     "@commitlint/config-conventional": "^15.0.0",
     "@mui/material": "^5.2.8",
-    "@ricardo-jrm/echo": "^2.0.1",
-    "@ricardo-jrm/fury": "^4.0.0",
-    "@ricardo-jrm/pain": "^2.1.1",
+    "@ricardojrmcom/echo": "^3.0.0",
+    "@ricardojrmcom/fury": "^5.0.0",
+    "@ricardojrmcom/pain": "^3.0.0",
     "@types/canvas-confetti": "^1.4.2",
     "@types/jest": "^27.0.2",
     "@types/node": "^16.11.4",

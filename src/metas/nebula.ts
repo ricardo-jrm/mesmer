@@ -1,4 +1,4 @@
-import { PainData } from '@ricardo-jrm/pain';
+import { PainData } from '@ricardojrmcom/pain';
 
 export const nebula: PainData = {
   name: 'Nebula',

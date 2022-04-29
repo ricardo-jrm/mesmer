@@ -1,4 +1,4 @@
-import { FuryRecord } from '@ricardo-jrm/fury';
+import { FuryRecord } from '@ricardojrmcom/fury';
 import { ace } from './ace';
 import { aceDark } from './ace-dark';
 import { fury } from './fury';
